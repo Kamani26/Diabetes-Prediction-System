@@ -22,3 +22,7 @@ streamlit run app.py
 
 ## 👨‍💻 Built By
 - 2nd Year CSE Student
+
+
+- ## 🌐 Live Demo
+👉 [Click Here To Try The App](https://diabetes-prediction-kamani.streamlit.app)
